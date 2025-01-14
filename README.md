@@ -8,7 +8,7 @@ positive impact on the world around them.
 
 🔭 I’m currently working on  
 * growing my Data portfolio  
-* completing my certifications  
+* completing several certifications  
 
 🌱 I’m learning 
 Data modeling and viz through DataCamp 
