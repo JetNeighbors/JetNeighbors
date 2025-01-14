@@ -7,8 +7,9 @@ has inspired my Data journey.
 
 🔭 I’m currently working on expanding my Data portfolio  
 🌱 I’m currently upskilling in data management & viz  
+👯 I’m looking to collaborate on Data service projects  
 🤔 I’m looking for help with navigating the world of Github  
-💬 Ask me about my deep passion for volunteering & service work  
+💬 Ask me about my deep passion for volunteering  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I'm proficient in Spanish and am actively learning Japanese  
 📫 How to reach me: 
@@ -19,7 +20,7 @@ has inspired my Data journey.
 <!-- - 👯 I’m looking to collaborate on ...
 -->
 
-### Programming Languages & Tools
+### Programming Languages & Data Tools
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
