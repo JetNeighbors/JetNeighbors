@@ -1,4 +1,4 @@
-## Ian Thomas Chapman aka JetNeighbors
+## Ian Thomas Chapman
 **`Data Storyteller👨🏽‍💻📈/ Tree-Hugger 🌍♻️/ S.T.E.M. Dad🔬🤖`**
 
 I'm a father, husband, data-analyst & citizen of planet Earth,  
