@@ -1,20 +1,31 @@
 ## Ian Thomas Chapman
 **`Data Storyteller👨🏽‍💻📈/ Tree-Hugger 🌍♻️/ S.T.E.M. Dad🔬🤖`**
 
-I'm a father, husband, data-analyst & citizen of planet Earth,  
-eager to give back in meaningful ways to the community that  
-has inspired my Data journey.
+I'm a father, husband, data analyst & citizen of planet Earth,  
+eager to collaborate with individuals looking to make a  
+positive impact on the world around them.
 
-🔭 I’m currently working on expanding my Data portfolio  
-🌱 I’m currently upskilling in data management & viz  
-👯 I’m looking to collaborate on Data service projects  
-🤔 I’m looking for help with navigating the world of Github  
-💬 Ask me about my deep passion for volunteering  
-😄 Pronouns: He/Him  
+
+🔭 I’m currently working on  
+* growing my Data portfolio  
+* completing my certifications  
+
+🌱 I’m learning 
+Data modeling and viz through DataCamp 
+
+
+👯 I’m looking to collaborate on service projects that leverage Data for humanitarian efforts  
+
+🤔 I’m looking for help with navigating the wide world of Github  
+
+💬 Ask me about my deep passion for volunteer work  
+
 ⚡ Fun fact: I'm proficient in Spanish and am actively learning Japanese  
-📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianthomaschapman)
+
+📫 How to reach me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianthomaschapman)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ichapman.sp@gmail.com)
+
 
 
 <!-- - 👯 I’m looking to collaborate on ...
