@@ -1,20 +1,25 @@
-## Ian Thomas Chapman
+## Ian Thomas Chapman aka JetNeighbors
+**`Data Storyteller👨🏽‍💻📈/ Tree-Hugger 🌍♻️/ S.T.E.M. Dad🔬🤖`**
 
-I'm a full-time father, husband, data-analyst & citizen of planet Earth, eager to give back in meaningufl ways to the community that has inspired my Data journey.
+I'm a father, husband, data-analyst & citizen of planet Earth,  
+eager to give back in meaningful ways to the community that  
+has inspired my Data journey.
 
-🔭 I’m currently working on expanding my GitHub portfolio  
+🔭 I’m currently working on expanding my Data portfolio  
 🌱 I’m currently upskilling in data management & viz  
-💬 Ask me about my deep passion for volunteering & service work
+🤔 I’m looking for help with navigating the world of Github  
+💬 Ask me about my deep passion for volunteering & service work  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I'm proficient in Spanish and am actively learning Japanese  
+📫 How to reach me: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianthomaschapman)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ichapman.sp@gmail.com)
+
 
 <!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-### Programming Languages / Data Viz / Workflow Tools
+### Programming Languages & Tools
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
