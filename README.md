@@ -1,7 +1,7 @@
 ## Ian Thomas Chapman
 **`Data Storyteller👨🏽‍💻📈/ Tree-Hugger 🌍♻️/ S.T.E.M. Dad🔬🤖`**
 
-I'm a father, husband, data analyst & citizen of planet Earth,  
+I'm a father, husband, citizen and data-analyst,  
 eager to collaborate with individuals looking to make a  
 positive impact on the world around them.
 
